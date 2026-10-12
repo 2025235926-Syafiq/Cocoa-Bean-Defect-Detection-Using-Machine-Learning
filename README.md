@@ -11,6 +11,7 @@ Traditional post-harvest sorting of dried cacao beans is performed manually, whi
 - [Problem statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
+  
 Status
 Planning (CSP600 / Final Year Project)
 
