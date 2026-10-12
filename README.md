@@ -8,10 +8,9 @@ Traditional post-harvest sorting of dried cacao beans is performed manually, whi
 
 ## Documents
 
-* [Problem statement]([https://www.google.com/search?q=docs/problem-statement.md](https://github.com/2025235926-Syafiq/Project/blob/main/docs/problem-statement.md))
-* [Requirements]([https://www.google.com/search?q=docs/requirements.md](https://github.com/2025235926-Syafiq/Project/blob/main/docs/requirements.md))
-* [User stories]([https://www.google.com/search?q=docs/user-stories.md](https://github.com/2025235926-Syafiq/Project/blob/main/docs/user-stories.md))
-
+- [Problem statement](docs/problem-statement.md)
+- [Requirements](docs/requirements.md)
+- [User stories](docs/user-stories.md)
 Status
 Planning (CSP600 / Final Year Project)
 
